@@ -30,3 +30,13 @@ header {
 .logo {
     width: 120px;
 }
+
+#row-cursos{
+    background-color: #5080E5;
+}
+.row{
+    margin:0px;
+}
+#row-cursos img {
+    border-radius: 50%;
+}
